@@ -1,0 +1,6 @@
+[submodule "vendor/XboxController"]
+	path = vendor/XboxController
+	url = git@github.com:Akahadaka/XboxController.git
+[submodule "vendor/pygame"]
+	path = vendor/pygame
+	url = git://github.com/xamox/pygame
